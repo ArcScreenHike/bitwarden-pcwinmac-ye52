@@ -1,4 +1,4 @@
-# 
+# Oficial Bitwarden extensões para Mac OS | Ultimato Bitwarden extensões para PC Windows. Com gerador de senhas e túnel dividido — otimizado para máximo desempenho em cada plataforma.
 
 
 
